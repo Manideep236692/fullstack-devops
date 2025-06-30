@@ -1,0 +1,5 @@
+apiVersion: v2
+name: fullstack
+description: A Helm chart for deploying fullstack app
+version: 0.1.0
+appVersion: "1.0"
